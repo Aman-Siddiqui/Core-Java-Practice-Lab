@@ -1,0 +1,13 @@
+package Package3;
+
+public class SuperClass extends AbstractEX {
+
+	@Override
+	public void msg() {
+		System.out.println("Coming from Super Class");
+		
+	}
+
+  
+
+}

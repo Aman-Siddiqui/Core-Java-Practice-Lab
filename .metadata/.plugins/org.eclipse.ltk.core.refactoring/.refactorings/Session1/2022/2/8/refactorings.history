@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Session2.CallbyRefernece&apos; to &apos;Circle&apos;&#x0D;&#x0A;- Original project: &apos;Session1&apos;&#x0D;&#x0A;- Original element: &apos;Session2.CallbyRefernece&apos;&#x0D;&#x0A;- Renamed element: &apos;Session2.Circle&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CallbyRefernece&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Session2{CallbyRefernece.java[CallbyRefernece" matchStrategy="1" name="Circle" qualified="false" references="true" similarDeclarations="false" stamp="1644776155949" textual="false" version="1.0"/>
+</session>

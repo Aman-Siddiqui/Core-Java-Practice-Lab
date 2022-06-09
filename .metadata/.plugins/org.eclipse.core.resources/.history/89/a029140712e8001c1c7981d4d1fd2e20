@@ -1,0 +1,11 @@
+package Package3;
+
+public abstract class AbstractEX implements Interface {
+
+	int id;
+	public int msg() {
+		return 5;
+	}
+	
+	
+}

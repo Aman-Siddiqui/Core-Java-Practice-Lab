@@ -1,0 +1,11 @@
+package Package3;
+
+public class SubClass extends AbstractEX {
+
+	@Override
+	public void msg() {
+		System.out.println("Cominf from SubClass");
+		
+	}
+
+}
